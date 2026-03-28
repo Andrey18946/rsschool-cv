@@ -19,3 +19,5 @@ I want to become a professional developer and find my first job.
 ## Code Example
 ```js
 console.log("Hello, RS School!");
+## Projects
+- This CV project
